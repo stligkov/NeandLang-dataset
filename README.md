@@ -1,2 +1,2 @@
 # NeandLang-dataset
-Data accompanied NeandLang project
+NeandLang project-Supplementary data
